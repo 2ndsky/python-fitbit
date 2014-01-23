@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-import ../fitbit
+import fitbit
 import sys
 
 if __name__ == '__main__':
